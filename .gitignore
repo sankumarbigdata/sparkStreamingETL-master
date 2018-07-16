@@ -1,0 +1,9 @@
+.idea/*
+
+### Scala template
+*.class
+*.log
+
+*/target
+spark-warehouse/
+target/
